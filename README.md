@@ -9,8 +9,6 @@ Curso de versionamento de código do GIT.
  - [Documentação GIT] (https://youtube.com)
  - [Apenas teste] (https://www.terra.com)
 
-## Resumo de Aulas 
-
  | Aulas | Resumos | 
  |-------|---------| 
 | Gravando cursos da aula | [Resumo]
